@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewefuoqi.github.io/DGl/sitemap_index.txt
+Sitemap: https://ewefuoqi.github.io/ONZ/sitemap_index.txt
+Sitemap: https://ewefuoqi.github.io/eDm/sitemap_index.txt
+Sitemap: https://ewefuoqi.github.io/pAn/sitemap_index.txt
